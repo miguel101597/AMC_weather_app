@@ -6,7 +6,7 @@ import '../models/weather.dart';
 
 class WeatherService {
 
-  static const String apiKey = 'cc37c2069a01769ac616aa3e1da1750a';
+  static const String apiKey = '';
   static const String baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 
